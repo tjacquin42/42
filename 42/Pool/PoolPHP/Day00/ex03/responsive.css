@@ -1,0 +1,46 @@
+BODY {
+	background-image: url("https://cdn.pixabay.com/photo/2017/08/19/20/58/brick-texture-2659841_960_720.jpg");
+}
+
+.rad {
+	border-radius: 50%;
+	box-shadow: 2px 2px 5px black
+}
+
+.tt {
+	font-family: "arial", serif;
+	font-weight: bold;
+	text-align: center;
+	font-size: 6vw;
+	color: azure;
+	text-shadow: 6px 6px 15px black;
+}
+
+.case {
+	width: 95%;
+	height: 97%;
+	border: 3px solid black;
+	box-shadow: 3px 3px 10px black;
+	border-radius: 8px;
+	position: relative;
+	text-align: center;
+}
+
+.elem {
+	line-height: 60%;
+	text-align: middle;
+	font-size: 3vw;
+	font-weight: bold;
+}
+
+.num {
+	text-align: left;
+	font-weight: normal;
+	font-size: 0.7vw;
+}
+
+.mass {
+	text-align: right;
+	font-weight: 100%;
+	font-size: 0.5vw;
+}

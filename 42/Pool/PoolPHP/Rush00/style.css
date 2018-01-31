@@ -1,0 +1,111 @@
+body
+{
+	margin: 0px;
+}
+
+html
+{
+	background-image: url('http://www.elementaryos-fr.org/wp-content/uploads/2013/09/wallpaper-1738907.png');
+}
+
+a
+{
+	color: #C0C0C0;
+	text-decoration: none;
+}
+
+a:hover
+{
+	color: #FFD700;
+}
+
+#header
+{
+	width: 800px;
+	height: 100px;
+	margin: auto;
+}
+
+#header .menu
+{
+	width: 150px;
+	height: 75px;
+	padding: 5px;
+	margin-top:7px;
+	text-align: center;
+	background-color: #808080;
+	border-radius: 0px 15px 0px 15px;
+}
+
+#header .menu h3
+{
+	margin: 0px;
+	margin-top: 15px;
+}
+
+#header .header
+{
+	width: 400px;
+	margin-left: 190px;
+	margin-top: -80px;
+	font-size: 60px;
+	text-align: center;
+	background-color: #808080;
+	border-radius: 0px 15px 0px 15px;
+}
+
+#header .module
+{
+	width: 180px;
+	height: 75px;
+	padding: 5px;
+	margin-left: auto;
+	margin-top:-77px;
+	position: relative;
+	background-color: #808080;
+	border-radius: 0px 15px 0px 15px;
+}
+
+#body
+{
+	width: 780px;
+	min-height: 500px;
+	margin: auto;
+	padding: 10px;
+	text-align: center;
+	background: #808080;
+	border-radius: 10px;
+}
+
+#body textarea
+{
+	width: 300px;
+	height: 200px;
+	resize: none;
+}
+
+#body .module
+{
+	width: 460px;
+}
+
+#body img
+{
+	width: 300px;
+	height: 150px;
+}
+
+#footer
+{
+	width: 800px;
+	margin: auto;
+	margin-top: 15px;
+	padding: 5px;
+	background-color: #808080;
+	border-radius: 15px 0px 15px 0px;		
+}
+
+#footer .module
+{
+	margin-left: 500px;
+}

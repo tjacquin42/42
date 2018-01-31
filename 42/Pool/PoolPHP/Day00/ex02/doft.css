@@ -1,0 +1,299 @@
+BODY {
+	background-color: dimgrey;
+}
+
+.backcolor {
+	background: rgb(144, 144, 144);
+}
+
+.hand {
+	width: 65px;
+	height: 63px;
+	top: 10px;
+	position: relative;
+	border: 5px solid red;
+	border-radius: 5px;
+}
+
+.daysize {
+	top: 12px;
+	position: relative;
+	float: left;
+	width: 400px;
+	height: 100px;
+}
+
+.size {
+	position: relative;
+	top: 10px;
+	width: 67px;
+	height: 67px;
+}
+
+.daycase {
+	left: 204px;
+	background-color: rgb(144, 144, 144);
+	width: 1293px;
+	height: 127px;
+	border: 0px solid black;
+	box-shadow: 10px 10px 20px black;
+	border-radius: 8px;
+	position: relative;
+	text-align: center;
+}
+
+.loup {
+	position: absolute;
+	right: 30px;
+	top: 8px;
+	width: 234px;
+	height: 138px;
+}
+
+.close {
+	width: 20px;
+	height: 20px;
+	float: right;
+	position: relative;
+	right: -20px;
+	top: 100px;
+}
+
+.reload {
+	width: 20px;
+	height: 20px;
+	float: right;
+	float: top;
+	padding-top: 9px;
+	padding-right: 10px;
+}
+
+.case {
+	top: 5px;
+	left: 235px;
+	background-color: rgb(144, 144, 144);
+	width: 127px;
+	height: 388px;
+	border: 0px solid black;
+	box-shadow: 10px 10px 20px black;
+	border-radius: 8px;
+	position: relative;
+	text-align: center;
+}
+
+.cluster {
+	width: 906px;
+	height: 509px;
+	position: relative;
+	top: 10px;
+}
+
+.clustercase {
+	top: -400px;
+	left: 390px;
+	background-color: rgb(144, 144, 144);
+	width: 925px;
+	height: 528px;
+	border: 0px solid black;
+	box-shadow: 10px 10px 20px black;
+	border-radius: 8px;
+	position: relative;
+	text-align: center;
+}
+
+.casebis {
+	position: absolute;
+	left: 1341px;
+	top: -943px;
+	background-color: rgb(144, 144, 144);
+	width: 127px;
+	height: 388px;
+	border: 0px solid black;
+	box-shadow: 10px 10px 20px black;
+	border-radius: 8px;
+	position: relative;
+	text-align: center;
+}
+
+.towel {
+	position: relative;
+	top: 10px;
+	width: 67px;
+	height: 51px;
+}
+
+.book {
+	position: relative;
+	top: 10px;
+	width: 64px;
+	height: 89px;
+}
+
+.brick1 {
+	position: absolute;
+	top: 160px;
+	left: 7px;
+	width: 37px;
+	height: 32px;
+}
+
+.brick2 {
+	position: absolute;
+	top: 160px;
+	left: 44px;
+	width: 37px;
+	height: 32px;
+}
+
+.brick3 {
+	position: absolute;
+	top: 160px;
+	left: 81px;
+	width: 37px;
+	height: 32px;
+}
+
+.brick4 {
+	position: absolute;
+	top: 192px;
+	left: 7px;
+	width: 37px;
+	height: 32px;
+}
+
+.brick5 {
+	position: absolute;
+	top: 192px;
+	left: 44px;
+	width: 37px;
+	height: 32px;
+}
+
+.brick6 {
+	position: absolute;
+	top: 192px;
+	left: 81px;
+	width: 37px;
+	height: 32px;
+}
+
+.select {
+	top: 450px;
+	left: 700px;
+	width: 120px;
+	height: 200px;
+	position: absolute;
+	opacity: 0;
+	z-index: 10;
+}
+
+.select2 {
+	top: 12cm;
+	left: 29.6cm;
+	width: 170px;
+	height: 140px;
+	position: absolute;
+	opacity: 0;
+	z-index: 10;
+}
+
+.search {
+	top: 605px;
+	left: 175px;
+	background-color: rgb(136, 255, 137);
+	width: 500px;
+	height: 160px;
+	border: 0px solid black;
+	box-shadow: 8px 8px 20px black;
+	border-radius: 8px;
+	position: absolute;
+}
+
+.text1 {
+	font-weight: lighter;
+	font-family: "Verdana";
+	top: 630px;
+	left: 184px;
+	width: 170px;
+	height: 140px;
+	position: absolute;
+	z-index: 10;
+}
+
+.text2 {
+	font-weight: lighter;
+	font-size: xx-large;
+	font-family: "Georgia";
+	top: -928px;
+	left: 220px;
+	width: 170px;
+	height: 140px;
+	position: relative;
+	z-index: 10;
+}
+
+.text3 {
+	font-weight: lighter;
+	font-family: "Verdana";
+	top: 630px;
+	left: 324px;
+	position: absolute;
+}
+
+.textshadow {
+	color: red;
+	font-weight: lighter;
+	font-family: "Verdana";
+	position: absolute;
+	top: 660px;
+	left: 204px;
+	text-shadow: 3px 3px 6px red;
+	opacity: 0.4;
+}
+
+.text4 {
+	font-weight: lighter;
+	font-family: "Verdana";
+	top: 655px;
+	left: 184px;
+	width: 170px;
+	height: 140px;
+	position: absolute;
+}
+
+.text5 {
+	font-style: italic;
+	font-weight: lighter;
+	font-family: "Verdana";
+	top: 676px;
+	left: 184px;
+	position: absolute;
+}
+
+.sbar {
+	top: 705px;
+	left: 185px;
+	background-color: rgb(254, 254, 254);
+	width: 374px;
+	height: 20px;
+	position: absolute;
+	z-index: 9;
+	border-style: inset;
+}
+
+.rep {
+	top: 708px;
+	left: 575px;
+	background-color: rgb(244, 242, 243);
+	width: 75px;
+	height: 20px;
+	position: absolute;
+	z-index: 10;
+	border-style: groove;
+	font-weight: lighter;
+	font-size: small;
+	font-family: "Verdana";
+	position: absolute;
+	text-align: center;
+	border-radius: 4px;
+}
